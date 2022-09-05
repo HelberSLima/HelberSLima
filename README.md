@@ -1,22 +1,17 @@
 ### Olá! Eu sou o Helber Lima 👋
-<a href="limahelber.hl@gmail.com"  target="_blank" rel="noopener noreferrer">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](limahelber.hl@gmail.com)
-</a>
-<a href="https://www.linkedin.com/in/helber-de-souza-lima-b65ab86a/"  target="_blank" rel="noopener noreferrer">
+
 [![linkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helber-de-souza-lima-b65ab86a/)
-</a>
-<a href="https://www.instagram.com/helber_slima/"  target="_blank" rel="noopener noreferrer">
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helber_slima/)
-</a>
-<a href="https://twitter.com/HelberL"  target="_blank" rel="noopener noreferrer">
+
 [![twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HelberL)
-</a>
-<a href="" target="_blank" rel="noopener noreferrer">
+
 ![Helber's GitHub stats](https://github-readme-stats.vercel.app/api?username=helberslima&show_icons=true&theme=onedark)
-</a>
-<a href=""  target="_blank" rel="noopener noreferrer">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helberslima)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
 ## tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
